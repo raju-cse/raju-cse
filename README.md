@@ -4,7 +4,7 @@
 
 👀 I’m interested in front-end development
 
-🌱 I’m currently learning c/c++,html,css,javascript &.net
+🌱 I’m currently learning c/c++,html,css,javascript &.Net
 
 💞️ studies B.Sc in CSE
 
