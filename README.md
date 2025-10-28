@@ -29,8 +29,11 @@ Now, I’m channeling that experience into **software development**, building ro
 - **Docker & Kubernetes** – for containerization and orchestration  
 - **Operating Systems (OS)** – to deepen understanding of system-level concepts  
 - **Architecture Diagrams** – for designing scalable and maintainable software systems
+    
 
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/raju-cse)  
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=raju-cse&show_icons=true) 
 ## 📫 Connect with Me
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/raju-ahmad-3ba198247/)  <!-- Replace with your actual LinkedIn URL -->
