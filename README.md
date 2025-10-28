@@ -8,7 +8,7 @@ I’m passionate about solving **real-world problems** through clean, efficient,
 My journey began with **competitive programming**, where I honed my skills in algorithms, data structures, and problem-solving efficiency.
 
 - 🧠 Solved **1000+ problems** across popular online judges such as **CSES**, **Codeforces**, **LightOJ**, **CodeChef**, **SPOJ**, **UVA**, and **AtCoder**  
-- 🏆 Participated in **50+ Codeforces contests**  
+- 🏆 Participated in **100+ contests**, both online and onsite  
 - 💡 Gained strong analytical and optimization skills through consistent problem-solving practice  
 
 Now, I’m channeling that experience into **software development**, building robust and scalable applications using **ASP.NET Core**, **Web APIs**, and **modern development practices**, while also leveraging **Golang** for high-performance backend projects.
