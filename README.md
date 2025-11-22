@@ -15,7 +15,7 @@ Now, I’m channeling that experience into **software development**, building ro
 
 ## 🧠 Technical Skills  
 
-- 💻 **Programming Languages:** C, C++, Go, Java, Python, C#  
+- 💻 **Programming Languages:** C, C++, Go, C#, Java, Python   
 - 🧩 **Object-Oriented Programming (OOP):** Strong understanding of OOP concepts in C++  
 - 🌐 **Web Technologies:** HTML, CSS, RESTful API, JWT Authentication  
 - ⚙️ **Frameworks & Tools:** ASP.NET Core, MySQL  
